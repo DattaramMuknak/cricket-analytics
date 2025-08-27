@@ -1,0 +1,31 @@
+{
+  "overall_score": 6.3,
+  "total_frames_analyzed": 136,
+  "scores": {
+    "footwork": {
+      "score": 5,
+      "feedback": "Foot angle: 85.7\u00b0. Improve foot placement"
+    },
+    "head_position": {
+      "score": 5,
+      "feedback": "Keep head over front knee"
+    },
+    "swing_control": {
+      "score": 5,
+      "feedback": "Elbow positioning needs work"
+    },
+    "balance": {
+      "score": 8.5,
+      "feedback": "Good balance"
+    },
+    "follow_through": {
+      "score": 8,
+      "feedback": "Good completion"
+    }
+  },
+  "recommendations": [
+    "Work on getting the front elbow higher during the shot",
+    "Focus on keeping your head over the front knee",
+    "Try to maintain a more upright posture during the shot"
+  ]
+}
