@@ -1,16 +1,8 @@
 # 🏏 AthleteRise - AI-Powered Cricket Analytics
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dattarammuknak-cricket-analytics.streamlit.app)
-[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-green.svg)](https://opencv.org/)
-[![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10+-orange.svg)](https://mediapipe.dev/)
-
 > **Real-Time Cover Drive Analysis System using AI-powered Pose Estimation and Biomechanical Evaluation**
 
 AthleteRise is a comprehensive cricket shot analysis system that uses computer vision and artificial intelligence to provide real-time feedback on cricket cover drive technique. Built with MediaPipe pose estimation and OpenCV, it offers professional-grade analysis comparable to sports science laboratories.
-
-![Cricket Analytics Demo](https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=Cricket+Analytics+Demo)
 
 ## 🌟 Features
 
@@ -43,10 +35,6 @@ AthleteRise is a comprehensive cricket shot analysis system that uses computer v
 - **Local video file upload**
 - **Download annotated videos**
 - **Mobile-responsive design**
-
-## 🚀 Live Demo
-
-Try the live application: **[AthleteRise Cricket Analytics](https://dattarammuknak-cricket-analytics.streamlit.app)**
 
 ## 🔧 Installation & Setup
 
@@ -217,8 +205,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Dattaram Muknak**  
 - 🐙 GitHub: [@DattaramMuknak](https://github.com/DattaramMuknak)
-- 📧 Email: dhanashreemuknak@gmail.com
-- 💼 LinkedIn: [Dattaram Muknak](https://linkedin.com/in/dattarammuknak)
+- 📧 Email: dattarammuknakwork@gmail.com
+- 💼 LinkedIn: [Dattaram Muknak](https://linkedin.com/in/dattaram-muknak)
 
 ## 🙏 Acknowledgments
 
@@ -226,12 +214,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **OpenCV Community** - For comprehensive computer vision tools  
 - **Streamlit** - For enabling rapid web app development
 - **Cricket Coaching Community** - For biomechanical insights and feedback
-
-## 📞 Support
-
-- 🐛 **Bug Reports:** [Create an Issue](https://github.com/DattaramMuknak/cricket-analytics/issues)
-- 💡 **Feature Requests:** [Request Feature](https://github.com/DattaramMuknak/cricket-analytics/issues/new)
-- 📧 **Contact:** dhanashreemuknak@gmail.com
 
 ## ⭐ Show Your Support
 
@@ -243,7 +225,6 @@ If this project helps you analyze cricket shots better, please give it a ⭐ on 
 
 **Made with ❤️ for the Cricket Community**
 
-[🏏 Try Live Demo](https://dattarammuknak-cricket-analytics.streamlit.app) • [📖 Documentation](README.md) • [🐛 Report Bug](https://github.com/DattaramMuknak/cricket-analytics/issues)
-
 </div>
+
 
