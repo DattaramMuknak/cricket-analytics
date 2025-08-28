@@ -4,6 +4,9 @@
 
 AthleteRise is a comprehensive cricket shot analysis system that uses computer vision and artificial intelligence to provide real-time feedback on cricket cover drive technique. Built with MediaPipe pose estimation and OpenCV, it offers professional-grade analysis comparable to sports science laboratories.
 
+## Try It Live
+My app is running at: https://cricket-analytics.streamlit.app/
+
 ## 🌟 Features
 
 ### 🎯 **Real-Time Analysis**
@@ -226,5 +229,6 @@ If this project helps you analyze cricket shots better, please give it a ⭐ on 
 **Made with ❤️ for the Cricket Community**
 
 </div>
+
 
 
